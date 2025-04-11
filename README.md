@@ -1,3 +1,3 @@
-# Ecsact Proposals
+# Ecsact General Issues Repository
 
-There is no official format for an Ecsact proposal. At this time it's best to create github issues in the related [GitHub repositories](https://github.com/orgs/ecsact-dev/repositories) or if there isn't one make an issue here.
+This repository is used for filing issues, bugs, or general questions about Ecsact when the [many repositories in the ecsact-dev org](https://github.com/orgs/ecsact-dev/repositories) does not quite fit. GitHub issues become actionable when linked to the other repositories.
